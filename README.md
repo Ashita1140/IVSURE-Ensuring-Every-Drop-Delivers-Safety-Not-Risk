@@ -54,9 +54,9 @@ IVSure is a smart healthcare project developed to continuously monitor the IV fl
 
 ## Folder Structure
 
--LCD_test
--HX711_test
--final_test
+LCD_test
+HX711_test
+final_test
 #Libraries
 Blynk
 BlynkNcpdriver
