@@ -29,6 +29,7 @@ IVSure is a smart healthcare project developed to continuously monitor the IV fl
 - Jumper Wires
 - Breadboard
 - Power Supply
+- LCD
 
 ---
 
